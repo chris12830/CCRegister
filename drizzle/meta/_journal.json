@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1790355564207,
+      "tag": "0000_supreme_azazel",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1790355764831,
+      "tag": "0001_late_the_enforcers",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1790361383461,
+      "tag": "0002_square_jackpot",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1790363761142,
+      "tag": "0003_eager_texas_twister",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1790365761865,
+      "tag": "0004_green_gabe_jones",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1790366907206,
+      "tag": "0005_unknown_exiles",
+      "breakpoints": true
+    }
+  ]
+}

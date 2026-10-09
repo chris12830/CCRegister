@@ -1,0 +1,1 @@
+ALTER TABLE `registration_intakes` ADD `hours` text NOT NULL;
